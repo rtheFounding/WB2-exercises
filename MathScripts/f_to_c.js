@@ -1,5 +1,5 @@
 
-var fahrenHeit = 90;
-var fahToCel = (fahrenHeit - 32) / 1.8;
+var fahrenheitTemp = 90;
+var fahrenToCel = (fahrenheitTemp - 32) / 1.8;
 
-console.log(fahToCel);
+console.log(fahrenToCel);
