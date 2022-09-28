@@ -1,5 +1,5 @@
 
-var fahrenheitTemp = 90;
+var fahrenheitTemp = 0;
 var fahrenToCel = (fahrenheitTemp - 32) / 1.8;
 
-console.log(fahrenToCel);
+console.log(Math.round(fahrenToCel));
