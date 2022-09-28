@@ -1,5 +1,5 @@
-var celsiusTemp = 50;
+var celsiusTemp = 0;
 
-var celsiusToFahren = (celsiusTemp * 1.8) + 32;
+var celsiusToFahren = (celsiusTemp * 9/5) + 32
 
-console.log(celsiusToFahren);
+console.log(Math.round(celsiusToFahren));
